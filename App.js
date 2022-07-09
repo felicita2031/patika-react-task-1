@@ -1,4 +1,4 @@
-import "./App.css";
+
 import { getData } from "./getData";
 
 function App() {
